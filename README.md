@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Yun Hwa Tsou</h1>
+<h2 align="left">Hi 👋, I'm Yun Hwa Tsou</h1>
 <h3 align="left">A passionate electrical engineering student at National Taiwan University</h3>
 
 <p align="left">
