@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋, I'm Yun Hwa Tsou</h1>
-<h3 align="left">An electrical engineering student at National Taiwan University</h3>
+<h3 align="left">An electrical and computer engineering master's student at Georgia Institute of Technology</h3>
 
 <p align="left">
 </p>
