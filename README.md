@@ -1,7 +1,9 @@
-<h2 align="left">Hi 👋, I'm Yun Hwa Tsou</h1>
-<h3 align="left">An electrical and computer engineering master's student at Georgia Institute of Technology</h3>
+<h2 align="left">Hi 👋, I'm Yun Hwa Tsou</h2>
+<h3 align="left">M.S. student in Electrical and Computer Engineering at Georgia Institute of Technology</h3>
 
 <p align="left">
+🔹 Specializing in <b>Digital VLSI Design</b>, with interests in low-power architectures, hardware optimization, and design automation.<br>
+🔹 Passionate about bridging <b>hardware and AI</b> through efficient and scalable circuit design.<br>
 </p>
 
 
